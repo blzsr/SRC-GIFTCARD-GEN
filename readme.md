@@ -30,6 +30,7 @@ This Python script allows users to generate gift card codes for popular services
 
 ## annc
 The annc is a github repo file named annc.txt you will need to replace my one unless you want my annc.
+Use this template: https://raw.githubusercontent.com/yourusername/gift-card-generator/main/annc.txt
 
 ## Contributors
 
